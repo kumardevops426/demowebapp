@@ -1,0 +1,7 @@
+D:\vscodeprojects\demoapp\demoapp\obj\Release\net6.0\PubTmp\Out\demoapp.exe
+D:\vscodeprojects\demoapp\demoapp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\vscodeprojects\demoapp\demoapp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\vscodeprojects\demoapp\demoapp\obj\Release\net6.0\PubTmp\Out\demoapp.dll
+D:\vscodeprojects\demoapp\demoapp\obj\Release\net6.0\PubTmp\Out\demoapp.deps.json
+D:\vscodeprojects\demoapp\demoapp\obj\Release\net6.0\PubTmp\Out\demoapp.runtimeconfig.json
+D:\vscodeprojects\demoapp\demoapp\obj\Release\net6.0\PubTmp\Out\demoapp.pdb
